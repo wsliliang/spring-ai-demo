@@ -1,0 +1,9 @@
+spring:
+  ai:
+    openai:
+      api-key: sk-************
+      baseUrl: https://api.chatanywhere.tech
+    ollama:
+      base-url: http://localhost:11434
+      chat:
+        model: qwen:14b
